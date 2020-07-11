@@ -2,7 +2,7 @@
 
 ![Carlos Azaustre](https://github.com/carlosazaustre/carlosazaustre/raw/master/img/github-header.png)
 
-I'm **Senior Software Engineer** who is passionate about web technologies such us **ReactJS**, **Node.js** and so on. Currently I'm web development instructor on my own, sharing knowledge on YouTube and Twitch. Previously I previously worked for *Eventbrite*, *Google* and *IBM Research*.
+I'm **Senior Software Engineer** who is passionate about web technologies such us **ReactJS**, **Node.js** and so on. Currently I'm web development instructor on my own, sharing knowledge on YouTube and Twitch. Previously I worked for *Eventbrite*, *Google* and *IBM Research*.
 
 I'm recognized by Google as [Developer Expert (GDE) in Web Technologies](https://developers.google.com/community/experts/directory/profile/profile-carlos_azaustre)
 
