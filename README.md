@@ -10,5 +10,5 @@ I'm recognized by Google as [Developer Expert (GDE) in Web Technologies](https:/
 - Sharing tips and setup pics on [Instagram](https://instagram.com/carlosazaustre) 📸
 - Making videotutorials about web development on [YouTube](https://youtube.com/carlosazaustre?sub_confirmation=1) 📼
 -  Learning and sharing in public on [Twitch](https://twitch.tv/carlosazaustre) 📹 👨🏽‍💻
-- Sharing updates on [Twitter](https://twitter.com/carlosazaustr) 🐦 
+- Sharing updates on [Twitter](https://twitter.com/carlosazaustre) 🐦
 - And my [Personal Site](https://carlosazaustre.es) 🌍
