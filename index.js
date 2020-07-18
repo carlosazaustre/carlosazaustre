@@ -39,7 +39,7 @@ const getPhotosFromInstagram = async () => {
 
     return edges;
   } catch (err) {
-    console.log(error);
+    console.log(err);
   }
 };
 
