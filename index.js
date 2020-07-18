@@ -71,40 +71,44 @@ const generateYoutubeThumbsHTML = ({ title, videoId }) => `
 
 (async () => {
   console.log('Fetching data...');
-  const [template, posts, videos, photos] = await Promise.all([
-    fs.readFile('./README.md.tpl', { encoding: 'utf-8' }),
-    parser.parseURL('https://carlosazaustre.es/rss.xml'),
-    getLatestYoutubeVideos(),
-    getPhotosFromInstagram(),
-  ]);
+  try {
+    const [template, posts, videos, photos] = await Promise.all([
+      fs.readFile('./README.md.tpl', { encoding: 'utf-8' }),
+      parser.parseURL('https://carlosazaustre.es/rss.xml'),
+      getLatestYoutubeVideos(),
+      getPhotosFromInstagram(),
+    ]);
 
-  // Show latest photos from Instagram
-  const latestInstagramPhotos = photos
-    .map(({ node }) => generateInstagramHTML(node))
-    .join('');
+    // Show latest photos from Instagram
+    const latestInstagramPhotos = photos
+      .map(({ node }) => generateInstagramHTML(node))
+      .join('');
 
-  // Show latest video tumbs from YouTube
-  const latestYoutubeVideos = videos
-    .map(({ snippet }) => {
-      const { title, resourceId } = snippet;
-      const { videoId } = resourceId;
-      return generateYoutubeThumbsHTML({ videoId, title });
-    })
-    .join('');
+    // Show latest video tumbs from YouTube
+    const latestYoutubeVideos = videos
+      .map(({ snippet }) => {
+        const { title, resourceId } = snippet;
+        const { videoId } = resourceId;
+        return generateYoutubeThumbsHTML({ videoId, title });
+      })
+      .join('');
 
-  // Create markdown for articles
-  const latestPostsMarkdown = posts.items
-    .slice(0, NUM_POSTS)
-    .map(({ title, link }) => `- [${title}](${link})`)
-    .join('\n');
+    // Create markdown for articles
+    const latestPostsMarkdown = posts.items
+      .slice(0, NUM_POSTS)
+      .map(({ title, link }) => `- [${title}](${link})`)
+      .join('\n');
 
-  // Replace placeholders with information
-  const newMarkdown = template
-    .replace(LATEST_PHOTO_PLACEHOLDER, latestInstagramPhotos)
-    .replace(LATEST_VIDEO_PLACEHOLDER, latestYoutubeVideos)
-    .replace(LATEST_POST_PLACEHOLDER, latestPostsMarkdown);
+    // Replace placeholders with information
+    const newMarkdown = template
+      .replace(LATEST_PHOTO_PLACEHOLDER, latestInstagramPhotos)
+      .replace(LATEST_VIDEO_PLACEHOLDER, latestYoutubeVideos)
+      .replace(LATEST_POST_PLACEHOLDER, latestPostsMarkdown);
 
-  console.log('Writing markdown...');
-  await fs.writeFile('./README.md', newMarkdown);
-  console.log('🏁 Finish!')
+    console.log('Writing markdown...');
+    await fs.writeFile('./README.md', newMarkdown);
+    console.log('🏁 Finish!');
+  } catch (err) {
+    console.log(err);
+  }
 })();
