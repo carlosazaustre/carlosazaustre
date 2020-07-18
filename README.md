@@ -46,7 +46,11 @@ I'm recognized by Google as [Developer Expert (GDE) in Web Technologies](https:/
 
 
 ## 📝  Latest articles and blogpost on [carlosazaustre.es](https://carlosazaustre.es)
-%{{latest_posts}}%
+- [Mi espacio de trabajo para teletrabajar desde casa](https://carlosazaustre.es/workspace)
+- [Cómo configurar Travis como herramienta para Integración y Despliegue continuo](https://carlosazaustre.es/travis-despliegue-integracion-continua)
+- [Lazy loading de imágenes ya forma parte del estándar HTML](https://carlosazaustre.es/lazy-loading-image)
+- [Cómo desplegar tu sitio en Gatsby a Firebase Hosting](https://carlosazaustre.es/gatsby-deploy-firebase)
+- [Cómo lanzar una aplicación web en Google Cloud Run con Cloud Build](https://carlosazaustre.es/google-cloud-run)
 
 ## Get in touch around the web 🌍
 - Sharing tips and setup pics on [Instagram](https://instagram.com/carlosazaustre) 📸

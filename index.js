@@ -50,7 +50,7 @@ const getLatestYoutubeVideos = async () => {
     const YOUTUBE_PLAYLIST_ID = 'UUJgGc8pQO1lv04VXrBxA_Hg';
     const response = await axios.get(`${YOUTUBE_API_URI}/playlistItems?part=snippet&playlistId=${YOUTUBE_PLAYLIST_ID}&maxResults=${NUM_VIDEOS}&key=${YOUTUBE_API_KEY}`);
     const { items } = response.data;
-    console.log(items);
+
     return items;
   } catch (err) {
     console.log(err);
@@ -71,8 +71,9 @@ const generateYoutubeThumbsHTML = ({ title, videoId }) => `
 
 (async () => {
   console.log('Fetching data...');
-  const [template, videos, photos] = await Promise.all([
+  const [template, posts, videos, photos] = await Promise.all([
     fs.readFile('./README.md.tpl', { encoding: 'utf-8' }),
+    parser.parseURL('https://carlosazaustre.es/rss.xml'),
     getLatestYoutubeVideos(),
     getPhotosFromInstagram(),
   ]);
@@ -91,10 +92,17 @@ const generateYoutubeThumbsHTML = ({ title, videoId }) => `
     })
     .join('');
 
+  // Create markdown for articles
+  const latestPostsMarkdown = posts.items
+    .slice(0, NUM_POSTS)
+    .map(({ title, link }) => `- [${title}](${link})`)
+    .join('\n');
+
   // Replace placeholders with information
   const newMarkdown = template
     .replace(LATEST_PHOTO_PLACEHOLDER, latestInstagramPhotos)
-    .replace(LATEST_VIDEO_PLACEHOLDER, latestYoutubeVideos);
+    .replace(LATEST_VIDEO_PLACEHOLDER, latestYoutubeVideos)
+    .replace(LATEST_POST_PLACEHOLDER, latestPostsMarkdown);
 
   console.log('Writing markdown...');
   await fs.writeFile('./README.md', newMarkdown);
