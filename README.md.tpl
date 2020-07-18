@@ -11,6 +11,8 @@ Previously I worked for *Eventbrite*, *Google*, *IBM Research* and as Freelance.
 
 I'm recognized by Google as [Developer Expert (GDE) in Web Technologies](https://developers.google.com/community/experts/directory/profile/profile-carlos_azaustre)
 
+![Github Stats for Carlos Azaustre](https://github-readme-stats.vercel.app/api?username=carlosazaustre&show_icons=true&hide_border=true)
+
 ## 📼  My latest videos on my [YouTube Channel](https://youtube.com/carlosazaustre?sub_confirmation=1)
 %{{latest_youtube}}%
 
