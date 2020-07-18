@@ -17,7 +17,7 @@ I'm recognized by Google as [Developer Expert (GDE) in Web Technologies](https:/
 ## 📸  My latest photos on my [Instagram profile](https://instagram.com/carlosazaustre)
 %{{latest_instagram}}%
 
-## 📝  Latest articles and blogpost on [carlosazaustre.es](https://carlosazaustre.es)
+## 📝  Latest articles and blogposts on [carlosazaustre.es](https://carlosazaustre.es)
 %{{latest_posts}}%
 
 ## Get in touch around the web 🌍
