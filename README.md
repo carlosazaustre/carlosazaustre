@@ -1,4 +1,4 @@
-![Carlos Azaustre, JavaScript Engineer and Google Developer Expert on Web Technologies](./img/github-header.png)
+![Carlos Azaustre, JavaScript Engineer and Google Developer Expert on Web Technologies](https://github.com/carlosazaustre/carlosazaustre/raw/master/img/github-header.png)
 
 # Hi, I'm Carlos 👋🏽 
 ## Frontend Developer 👨🏽‍💻 from Madrid, Spain 🇪🇸
