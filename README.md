@@ -12,7 +12,19 @@ Previously I worked for *Eventbrite*, *Google*, *IBM Research* and as Freelance.
 I'm recognized by Google as [Developer Expert (GDE) in Web Technologies](https://developers.google.com/community/experts/directory/profile/profile-carlos_azaustre)
 
 ## 📼  My latest videos on my [YouTube Channel](https://youtube.com/carlosazaustre?sub_confirmation=1)
-%{{latest_youtube}}%
+
+  <a href="https://youtu.be/_yi3UVcuw_8/" target="_blank">
+    <img width="30%" src="https://img.youtube.com/vi/_yi3UVcuw_8/mqdefault.jpg" alt="🖥  Ruta de aprendizaje para ser DESARROLLADOR WEB BACKEND" />
+  </a>
+
+  <a href="https://youtu.be/dy4ghMAv3yE/" target="_blank">
+    <img width="30%" src="https://img.youtube.com/vi/dy4ghMAv3yE/mqdefault.jpg" alt="La ruta para ser Desarrollador Web Frontend" />
+  </a>
+
+  <a href="https://youtu.be/Wz1E54PZY2E/" target="_blank">
+    <img width="30%" src="https://img.youtube.com/vi/Wz1E54PZY2E/mqdefault.jpg" alt="Como hacer un API REST con 🦕 DENO" />
+  </a>
+
 
 ## 📸  My latest photos on my [Instagram profile](https://instagram.com/carlosazaustre)
 
