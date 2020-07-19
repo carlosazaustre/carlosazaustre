@@ -1,7 +1,6 @@
-# Hello, World!
 ![Carlos Azaustre, JavaScript Engineer and Google Developer Expert on Web Technologies](https://github.com/carlosazaustre/carlosazaustre/raw/master/img/github-header.png)
 
-- 👋🏽 Hi, there! I'm Carlos, Frontend Engineer  from Madrid, Spain 🇪🇸
+# 👋🏽 Hi, there! I'm Carlos, Frontend Engineer from Madrid, Spain 🇪🇸
 - 👨🏽‍💻 Passionate about web technologies such us **ReactJS** and **Node.js**.
 - 👨🏽‍🏫 Working as Instructor on Web Development Technologies.
 - 🎓 Sharing knowledge as "Edutuber" on [YouTube](https://youtube.com/carlosazaustre?sub_confirmation=1) (+30,000 subscribers)
