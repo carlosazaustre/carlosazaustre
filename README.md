@@ -1,17 +1,13 @@
 # Hello, World!
 ![Carlos Azaustre, JavaScript Engineer and Google Developer Expert on Web Technologies](https://github.com/carlosazaustre/carlosazaustre/raw/master/img/github-header.png)
 
-- Hi, there 👋🏽! I'm Carlos, Frontend Engineer 👨🏽‍💻 from Madrid, Spain 🇪🇸
-- Passionate about web technologies such us **ReactJS** and **Node.js**.
-- Working as Instruc
-- Sharing knowledge as "Edutuber" on [YouTube](https://youtube.com/carlosazaustre?sub_confirmation=1) (+30,000 subscribers 🚀)
-- I do randomly livecoding sessions on [Twitch](https://twitch.tv/carlosazaustre) 🟣. 
-
-Currently I'm web development instructor on my own, sharing knowledge in Spanish language on my  (+30,000 subscribers!) and livecoding sessions on 
-
-Previously I worked for *Eventbrite*, *Google*, *IBM Research* and as Freelance.
-
-I'm recognized by Google as [Developer Expert (GDE) in Web Technologies](https://developers.google.com/community/experts/directory/profile/profile-carlos_azaustre)
+- 👋🏽 Hi, there! I'm Carlos, Frontend Engineer  from Madrid, Spain 🇪🇸
+- 👨🏽‍💻 Passionate about web technologies such us **ReactJS** and **Node.js**.
+- 👨🏽‍🏫 Working as Instructor on Web Development Technologies.
+- 🎓 Sharing knowledge as "Edutuber" on [YouTube](https://youtube.com/carlosazaustre?sub_confirmation=1) (+30,000 subscribers)
+- 🟣 I do randomly livecoding sessions on [Twitch](https://twitch.tv/carlosazaustre). 
+- 💼 Previously I worked for *Eventbrite*, *Google*, *IBM Research* and as Freelance.
+- 🏅I'm recognized by Google as [Developer Expert (GDE) in Web Technologies](https://developers.google.com/community/experts/directory/profile/profile-carlos_azaustre)
 
 ## Languages & tools
 **Languages and Tools:**  
