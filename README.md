@@ -1,5 +1,7 @@
 ```shell
 $ npx carlosazaustre
+npx: installed 9 in 1.061s
+
 
 👋 Hi! I'm Carlos Azaustre (@carlosazaustre)
 
@@ -19,13 +21,15 @@ $ npx carlosazaustre
 ```
 
 
-![Github Stats for Carlos Azaustre](https://github-readme-stats.vercel.app/api?username=carlosazaustre&show_icons=true&hide_border=true)
+![Github Stats for Carlos Azaustre](https://github-readme-stats.vercel.app/api?username=carlosazaustre&show_icons=true&hide_border=true&title_color=ffb300&icon_color=ffb300&bg_color=dddddd)
 
-## Languages & Tools
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+```javascript
+languages_and_tools: [
+   'javascript',
+   'react.js',
+   'webpack',
+   'node.js',
+   'mongodb',
+   'firebase',
+];
+```
