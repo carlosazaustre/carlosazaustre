@@ -1,6 +1,6 @@
 # Hi, I'm Carlos 👋🏽
 
-<img src="https://github.com/carlosazaustre/carlosazaustre/blob/main/carlos-azaustre.png" style="margin: 10px; width: 250px; float: right;" />
+<img src="https://github.com/carlosazaustre/carlosazaustre/blob/main/img/carlos-azaustre.png?raw=true" style="margin: 10px; width: 200px; float: right;" />
 
 I'm an Frontend Engineer, and tech-content creator. [Google Developer Expert (GDE) on Web Technologies](https://developers.google.com/community/experts/directory/profile/profile-carlos_azaustre). I'm the author of [Aprendiendo JavaScript](https://leanpub.com/aprendiendo-javascript), a book to learn JS in spanish. I currently work as Web Development Instructor on my own. 
 
