@@ -1,35 +1,13 @@
-```shell
-$ npx carlosazaustre
-npx: installed 9 in 1.061s
+# Hi, I'm Carlos 👋🏽
 
+<img src="https://github.com/carlosazaustre/carlosazaustre/blob/main/carlos-azaustre.png" style="margin: 10px; width: 250px; float: right;" />
 
-👋 Hi! I'm Carlos Azaustre (@carlosazaustre)
+I'm an Frontend Engineer, and tech-content creator. [Google Developer Expert (GDE) on Web Technologies](https://developers.google.com/community/experts/directory/profile/profile-carlos_azaustre). I'm the author of [Aprendiendo JavaScript](https://leanpub.com/aprendiendo-javascript), a book to learn JS in spanish. I currently work as Web Development Instructor on my own. 
 
-💻 Web Development Instructor @ Fullstack JS Academy
-🎓 BSc, Telematics Engineering
-🏅 GDE in Web Technologies
-
-   Instagram:  https://instagram.com/carlosazaustre
-     YouTube:  https://youtube.com/carlosazaustre
-      Twitch:  https://twitch.tv/carlosazaustre
-     Twitter:  https://twitter.com/carlosazaustre
-      GitHub:  https://github.com/carlosazaustre
-    LinkedIn:  https://linkedin.com/in/carlosazaustre
-         Web:  https://carlosazaustre.es
-
-        Card:  npx carlosazaustre
-```
-
-
-![Github Stats for Carlos Azaustre](https://github-readme-stats.vercel.app/api?username=carlosazaustre&show_icons=true&hide_border=true&title_color=ffb300&icon_color=ffb300&bg_color=dddddd)
-
-```javascript
-languages_and_tools: [
-   'javascript',
-   'react.js',
-   'webpack',
-   'node.js',
-   'mongodb',
-   'firebase',
-];
-```
+- 👨🏽‍🏫  I'm currently working on [Fullstack JS Academy](https://fullstackjs.academy) as Software Engineer Instructor.
+- 📼  I make videotutorials on my [Youtube Channel](https://youtube.com/carlosazaustre?sub_confirmation=1) as well on [Twitch](https://twitch.tv/carlosazaustre)
+- 🌱  I'm currently learn about Hexagonal Architecture.
+- 👨🏽‍💻  Working with JavaScript, React.js, Node.js, GraphQL, MongoDB and Firebase.
+- 📫  Reach me on [Instagram](https://instagram.com/carlosazaustre) and [Twitter](https://twitter.com/carlosazaustre).
+- 😄 Pronouns: he/him
+- 🧱 Fun fact: I love playing with Legos.
