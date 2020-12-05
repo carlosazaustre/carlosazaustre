@@ -1,6 +1,6 @@
 ## Hi, I'm Carlos 👋🏽
 
-<img width=256 align="right" src="https://github.com/carlosazaustre/carlosazaustre/blob/eabeca2eee92184782b3863d079c8f362c0d6513/img/carlos-azaustre.png?raw=true" />
+<img width=150 align="right" src="https://github.com/carlosazaustre/carlosazaustre/blob/eabeca2eee92184782b3863d079c8f362c0d6513/img/carlos-azaustre.png?raw=true" />
 
 - 👨🏻‍💻 *Remote Fullstack JavaScript Developer at [??](https://youtu.be/RfiQYRn7fBg?t=13)*
 - 🏅 *[Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-carlos_azaustre) (GDE) in Web Technologies*
