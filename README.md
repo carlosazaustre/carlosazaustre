@@ -1,12 +1,26 @@
-# Hi, I'm Carlos 👋🏽
+## Hi, I'm Carlos 👋🏽
 
 <img width=256 align="right" src="https://github.com/carlosazaustre/carlosazaustre/blob/eabeca2eee92184782b3863d079c8f362c0d6513/img/carlos-azaustre.png?raw=true" />
 
-I'm a **Senior Software Engineer**, working as a **Fullstack JavaScript Developer**. In parallel I'm tech-content creator and **[Google Developer Expert (GDE) on Web Technologies](https://developers.google.com/community/experts/directory/profile/profile-carlos_azaustre)**. Also, I'm the author of **[Aprendiendo JavaScript](https://leanpub.com/aprendiendo-javascript)**, a book to learn JS in spanish.
+- 👨🏻‍💻 *Remote Fullstack JavaScript Developer at [??](https://youtu.be/RfiQYRn7fBg?t=13)*
+- 🏅 *[Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-carlos_azaustre) (GDE) in Web Technologies*
+- 📙 *Author of [Aprendiendo JavaScript](https://leanpub.com/aprendiendo-javascript)*
 
-- 👨🏽‍💻   Working with **JavaScript, React.js, Node.js, GraphQL, MongoDB** and **Firebase**.
-- 🌱   I'm currently learning about Hexagonal Architecture and Atomic Design
-- 📼   I make videotutorials on my [Youtube Channel](https://youtube.com/carlosazaustre?sub_confirmation=1)(+30,000 subs!!).
-- 📫   Reach me on [Instagram](https://instagram.com/carlosazaustre) and [Twitter](https://twitter.com/carlosazaustre).
-- 😄  Pronouns: he/him.
-- 🧱  Fun fact: I love playing with LEGOs.
+## About me...
+```js
+const carlosazaustre = {
+  pronouns: "he/him",
+  code: ["JavaScript", "HTML", "CSS"],
+  tools: ["React", "Next.js", "Node.js", "GraphQL", "Firebase", "Vercel"],
+  communities: [{
+    coorganizer: ["Google Cloud Dev Community Madrid", "ReactJS Spain", "Nodeschool Madrid"],
+    mentor: ["GDG Spain", "Nodeschool Madrid"]
+  }],
+  links: [{
+    youtube: "https://youtube.com/carlosazaustre",
+    twitch: "https://twitch.tv/carlosazaustre",
+    instagram: "https://instagram.com/carlosazaustre",
+    twitter: "https://twitter.com/carlosazaustre",
+  }],
+}
+```
