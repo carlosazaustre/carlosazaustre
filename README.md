@@ -5,6 +5,8 @@
 - 👨🏻‍💻 *Remote Fullstack JavaScript Developer at [??](https://youtu.be/RfiQYRn7fBg?t=13)*
 - 🏅 *[Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-carlos_azaustre) (GDE) in Web Technologies*
 - 📙 *Author of [Aprendiendo JavaScript](https://leanpub.com/aprendiendo-javascript)*
+- 🎬 [*TechTuber*](https://youtube.com/carlosazaustre?sub_confirmation=1) (+35,000)
+- 🟣 [*Streamer*](https://twitch.tv/carlosazaustre)
 
 ## About me...
 ```js
