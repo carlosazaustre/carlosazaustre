@@ -5,7 +5,7 @@
 - 👨🏻‍💻 *Fullstack JavaScript Developer* and *Tech Content Creator*
 - 🏅 *[Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-carlos_azaustre) (GDE) in Web Technologies*
 - 📙 *Author of [Aprendiendo JavaScript](https://www.amazon.com/Aprendiendo-JavaScript-Desde-ECMAScript-Spanish/dp/B08TZ3HSYZ/)*
-- 🎬 [*Tech/EduTuber*](https://youtube.com/carlosazaustre?sub_confirmation=1) (+30,000)
+- 🎬 [*Tech/EduTuber*](https://youtube.com/carlosazaustre?sub_confirmation=1) (+40,000)
 - 🟣 [*Streamer*](https://twitch.tv/carlosazaustre)
 
 ## About me...
