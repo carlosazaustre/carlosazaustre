@@ -2,11 +2,12 @@
 
 ## Hi, I'm Carlos 👋🏽
 
-- 👨🏻‍💻 *Fullstack JavaScript Developer* and *Tech Content Creator*
-- 🏅 *[Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-carlos_azaustre) (GDE) in Web Technologies*
-- 📙 *Author of [Aprendiendo JavaScript](https://www.amazon.com/Aprendiendo-JavaScript-Desde-ECMAScript-Spanish/dp/B08TZ3HSYZ/)*
-- 🎬 [*Tech/EduTuber*](https://youtube.com/carlosazaustre?sub_confirmation=1) (+40,000)
-- 🟣 [*Streamer*](https://twitch.tv/carlosazaustre)
+- 👨🏻‍💻 Fullstack JavaScript Developer, Educator and Web Technologies Evangelist.
+- 🏅 *[Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-carlos_azaustre) (GDE) in Web*
+- 🧑‍🚀 *[Auth0 Ambassador](https://auth0.com/ambassador-program)*
+- 📙 *Author of [Aprendiendo JavaScript](https://www.amazon.com/Aprendiendo-JavaScript-Desde-ECMAScript-Spanish/dp/B08TZ3HSYZ/)* (Amazon)
+- 🎬 [*EduTuber* about Programming, JavaScript, React.js, Node.js,...](https://youtube.com/carlosazaustre?sub_confirmation=1) (+50,000 subs)
+- 🟣 *Livecoder Streamer* on [Twitch](https://twitch.tv/carlosazaustre)
 
 ## About me...
 ```js
@@ -27,5 +28,7 @@ const carlosazaustre = {
 }
 ```
 ---
+## Support
+If you like my work, you can support me with a *coffee* ☕️
 
 <a href="https://www.buymeacoffee.com/carlosazaustre"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=carlosazaustre&button_colour=5F7FFF&font_colour=ffffff&font_family=Bree&outline_colour=000000&coffee_colour=FFDD00"></a>
