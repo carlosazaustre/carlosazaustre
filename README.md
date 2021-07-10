@@ -2,11 +2,12 @@
 
 ## Hi, I'm Carlos 👋🏽
 
-- 👨🏻‍💻 Fullstack JavaScript Developer, Educator and Web Technologies Evangelist.
+- 👨🏻‍💻 Software Engineer. JavaScript Lover. Educator and Web Technologies Evangelist.
+- 🎓 Director of *MSc in Fullstack Web Development* at **Universidad Europea de Madrid**.
+- 📙 *Author of [Aprendiendo JavaScript](https://carlosazaustre.es/libros/aprendiendo-javascript)* (Amazon)
 - 🏅 *[Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-carlos_azaustre) (GDE) in Web*
 - 🧑‍🚀 *[Auth0 Ambassador](https://auth0.com/ambassador-program)*
-- 📙 *Author of [Aprendiendo JavaScript](https://www.amazon.com/Aprendiendo-JavaScript-Desde-ECMAScript-Spanish/dp/B08TZ3HSYZ/)* (Amazon)
-- 🎬 [*EduTuber* about Programming, JavaScript, React.js, Node.js,...](https://youtube.com/carlosazaustre?sub_confirmation=1) (+50,000 subs)
+- 🎬 [*EduTuber* about Programming, JavaScript, React.js, Node.js,...](https://youtube.com/carlosazaustre?sub_confirmation=1) (+65,000 subs)
 - 🟣 *Livecoder Streamer* on [Twitch](https://twitch.tv/carlosazaustre)
 
 ## About me...
@@ -15,17 +16,23 @@ const carlosazaustre = {
   pronouns: "he/him",
   code: ["JavaScript", "HTML", "CSS"],
   tools: ["React", "Next.js", "Node.js", "GraphQL", "Firebase", "Vercel"],
+  current_job: {
+    role: "Director",
+    team: "Msc. Fullstack Web Development",
+    company: "Universidad Europea de Madrid",
+  },
   communities: [{
     coorganizer: ["Google Cloud Dev Community Madrid", "ReactJS Spain", "Nodeschool Madrid"],
     mentor: ["GDG Spain", "Nodeschool Madrid"]
   }],
   links: [{
+    blog: "https://carlosazaustre.es"
     youtube: "https://youtube.com/carlosazaustre",
     twitch: "https://twitch.tv/carlosazaustre",
     instagram: "https://instagram.com/carlosazaustre",
     twitter: "https://twitter.com/carlosazaustre",
   }],
-}
+};
 ```
 ---
 ## Support
