@@ -2,6 +2,12 @@
 
 ## Hi, I'm Carlos 👋🏽
 
+![Twitter Follow](https://img.shields.io/twitter/follow/carlosazaustre?style=social)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCJgGc8pQO1lv04VXrBxA_Hg?style=social)
+![Twitch Status](https://img.shields.io/twitch/status/carlosazaustre?style=social)
+![GitHub Sponsors](https://img.shields.io/github/sponsors/carlosazaustre?color=white&label=Github%20Sponsors&logo=github)
+![GitHub followers](https://img.shields.io/github/followers/carlosazaustre?style=social)
+
 - 👨🏻‍💻 Software Engineer. JavaScript Lover. Educator and Web Technologies Evangelist.
 - 🎓 Director of *MSc in Fullstack Web Development* at **Universidad Europea de Madrid**.
 - 📙 *Author of [Aprendiendo JavaScript](https://carlosazaustre.es/libros/aprendiendo-javascript)* (Amazon)
@@ -26,7 +32,7 @@ const carlosazaustre = {
     mentor: ["GDG Spain", "Nodeschool Madrid"]
   }],
   links: [{
-    blog: "https://carlosazaustre.es"
+    blog: "https://carlosazaustre.es",
     youtube: "https://youtube.com/carlosazaustre",
     twitch: "https://twitch.tv/carlosazaustre",
     instagram: "https://instagram.com/carlosazaustre",
@@ -36,6 +42,8 @@ const carlosazaustre = {
 ```
 ---
 ## Support
-If you like my work, you can support me with a *coffee* ☕️
+If you like my work, you can support me with a *coffee* ☕️ or by Github Sponsors
 
 <a href="https://www.buymeacoffee.com/carlosazaustre"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=carlosazaustre&button_colour=5F7FFF&font_colour=ffffff&font_family=Bree&outline_colour=000000&coffee_colour=FFDD00"></a>
+
+![GitHub Sponsors](https://img.shields.io/github/sponsors/carlosazaustre?color=white&label=Github%20Sponsors&logo=github&style=for-the-badge)
