@@ -2,8 +2,8 @@
 
 ## Hi, I'm Carlos 👋🏽
 
-![Twitter Follow](https://img.shields.io/twitter/follow/carlosazaustre?style=social)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCJgGc8pQO1lv04VXrBxA_Hg?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/carlosazaustre?style=social)](https://twitter.com/carlosazaustre)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCJgGc8pQO1lv04VXrBxA_Hg?style=social)](https://youtube.com/carlosazaustre?sub_confirmation=1)
 ![GitHub followers](https://img.shields.io/github/followers/carlosazaustre?style=social)
 
 - 👨🏻‍💻 Software Engineer. JavaScript Lover. Educator and Web Technologies Evangelist.
@@ -40,8 +40,8 @@ const carlosazaustre = {
 ```
 ---
 ## Support
-If you like my work, you can support me with a *coffee* ☕️ or by Github Sponsors ![GitHub Sponsors](https://img.shields.io/github/sponsors/carlosazaustre?color=white&label=Github%20Sponsors&logo=github)
+If you like my work, you can support me with a *coffee* ☕️ or by Github Sponsors [![GitHub Sponsors](https://img.shields.io/github/sponsors/carlosazaustre?color=white&label=Github%20Sponsors&logo=github)](https://github.com/sponsors/carlosazaustre)
 
 <a href="https://www.buymeacoffee.com/carlosazaustre"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=carlosazaustre&button_colour=5F7FFF&font_colour=ffffff&font_family=Bree&outline_colour=000000&coffee_colour=FFDD00"></a>
 
-![GitHub Sponsors](https://img.shields.io/github/sponsors/carlosazaustre?color=white&label=Github%20Sponsors&logo=github&style=for-the-badge)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/carlosazaustre?color=white&label=Github%20Sponsors&logo=github&style=for-the-badge)](https://github.com/sponsors/carlosazaustre)
