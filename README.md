@@ -35,6 +35,7 @@ const carlosazaustre = {
     twitch: "https://twitch.tv/carlosazaustre",
     instagram: "https://instagram.com/carlosazaustre",
     twitter: "https://twitter.com/carlosazaustre",
+    podcast: "https://anchor.fm/carlosazaustre"
   }],
 };
 ```
