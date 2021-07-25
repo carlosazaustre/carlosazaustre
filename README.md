@@ -14,6 +14,13 @@
 - 🎬 [*EduTuber* about Programming, JavaScript, React.js, Node.js,...](https://youtube.com/carlosazaustre?sub_confirmation=1) (+65,000 subs)
 - 🟣 *Livecoder Streamer* on [Twitch](https://twitch.tv/carlosazaustre)
 
+## Support
+If you like my work, you can support me on [Github Sponsors](https://github.com/sponsors/carlosazaustre)
+
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/carlosazaustre?color=white&label=Github%20Sponsors&logo=github&style=for-the-badge)](https://github.com/sponsors/carlosazaustre)
+
+---
+
 ## About me...
 ```js
 const carlosazaustre = {
@@ -25,22 +32,21 @@ const carlosazaustre = {
     team: "Msc. Fullstack Web Development",
     company: "Universidad Europea de Madrid",
   },
-  communities: [{
-    coorganizer: ["Google Cloud Dev Community Madrid", "ReactJS Spain", "Nodeschool Madrid"],
-    mentor: ["GDG Spain", "Nodeschool Madrid"]
+  community: [{
+    co_organizer: ["Google Cloud Dev Community Madrid", "ReactJS Spain", "Nodeschool Madrid"],
+  }, {
+    mentor: ["GDG Spain", "Nodeschool Madrid"],
+  }, {
+    recognitions: ["Google Developer Expert", "Auth0 Ambassador"],
   }],
-  links: [{
+  links: {
     blog: "https://carlosazaustre.es",
     youtube: "https://youtube.com/carlosazaustre",
     twitch: "https://twitch.tv/carlosazaustre",
     instagram: "https://instagram.com/carlosazaustre",
     twitter: "https://twitter.com/carlosazaustre",
-    podcast: "https://anchor.fm/carlosazaustre"
-  }],
+    podcast: "https://anchor.fm/carlosazaustre",
+    tiktok: "https://tiktok.com/@carlosazaustre",
+  },
 };
 ```
----
-## Support
-If you like my work, you can support me on [Github Sponsors](https://github.com/sponsors/carlosazaustre)
-
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/carlosazaustre?color=white&label=Github%20Sponsors&logo=github&style=for-the-badge)](https://github.com/sponsors/carlosazaustre)
