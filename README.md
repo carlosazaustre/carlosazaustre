@@ -56,7 +56,7 @@ If you like my work, you can support me with a *coffee* ☕️ or by Github Spon
 ![GitHub followers](https://img.shields.io/github/followers/carlosazaustre?style=social)
 
 - 👨🏻‍💻 Software Engineer. Amante de JavaScript. Educador y Evangelista de tecnologias web.
-- 🎓 Titulo de *Maestría en Desarrollo Web Full Stack* en la **Universidad Europea de Madrid**.
+- 🎓 Director de *Maestría en Desarrollo Web Full Stack* en la **Universidad Europea de Madrid**.
 - 📙 *Autor de [Aprendiendo JavaScript](https://carlosazaustre.es/libros/aprendiendo-javascript)* (Amazon)
 - 🏅 *[Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-carlos_azaustre) (GDE) en web*
 - 🧑‍🚀 *[Auth0 Ambassador](https://auth0.com/ambassador-program)*
