@@ -46,3 +46,53 @@ If you like my work, you can support me with a *coffee* ☕️ or by Github Spon
 <a href="https://www.buymeacoffee.com/carlosazaustre"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=carlosazaustre&button_colour=5F7FFF&font_colour=ffffff&font_family=Bree&outline_colour=000000&coffee_colour=FFDD00"></a>
 
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/carlosazaustre?color=white&label=Github%20Sponsors&logo=github&style=for-the-badge)](https://github.com/sponsors/carlosazaustre)
+
+<img width=190 align="right" src="https://github.com/carlosazaustre/carlosazaustre/blob/eabeca2eee92184782b3863d079c8f362c0d6513/img/carlos-azaustre.png?raw=true" />
+
+## Hola, soy Carlos 👋🏽
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/carlosazaustre?style=social)](https://twitter.com/carlosazaustre)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCJgGc8pQO1lv04VXrBxA_Hg?style=social)](https://youtube.com/carlosazaustre?sub_confirmation=1)
+![GitHub followers](https://img.shields.io/github/followers/carlosazaustre?style=social)
+
+- 👨🏻‍💻 Software Engineer. Smante de JavaScript. Educador y Evangelista de tecnologias web.
+- 🎓 Titulo de *Maestría en Desarrollo Web Full Stack* en la **Universidad Europea de Madrid**.
+- 📙 *Autor de [Aprendiendo JavaScript](https://carlosazaustre.es/libros/aprendiendo-javascript)* (Amazon)
+- 🏅 *[Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-carlos_azaustre) (GDE) en web*
+- 🧑‍🚀 *[Auth0 Ambassador](https://auth0.com/ambassador-program)*
+- 🎬 [*EduTuber* de Programacion, JavaScript, React.js, Node.js,...](https://youtube.com/carlosazaustre?sub_confirmation=1) (+65,000 subs)
+- 🟣 *Livecoder Streamer* en [Twitch](https://twitch.tv/carlosazaustre)
+
+## About me...
+```js
+const carlosazaustre = {
+  genero: "he/him",
+  codigo: ["JavaScript", "HTML", "CSS"],
+  habilidades: ["React", "Next.js", "Node.js", "GraphQL", "Firebase", "Vercel"],
+  trabajo actual: {
+    rol: "Director",
+    equipo: "Msc. Fullstack Web Development",
+    compañia: "Universidad Europea de Madrid",
+  },
+  Comunidades: [{
+    Coorganizador: ["Google Cloud Dev Community Madrid", "ReactJS Spain", "Nodeschool Madrid"],
+    Mentor: ["GDG Spain", "Nodeschool Madrid"]
+  }],
+  links: [{
+    blog: "https://carlosazaustre.es",
+    youtube: "https://youtube.com/carlosazaustre",
+    twitch: "https://twitch.tv/carlosazaustre",
+    instagram: "https://instagram.com/carlosazaustre",
+    twitter: "https://twitter.com/carlosazaustre",
+    podcast: "https://anchor.fm/carlosazaustre"
+  }],
+};
+```
+---
+## Support
+Si te gusta mi trabajo, puedes ayudarme con un *Cafe* ☕️ o con Github Sponsors [![GitHub Sponsors](https://img.shields.io/github/sponsors/carlosazaustre?color=white&label=Github%20Sponsors&logo=github)](https://github.com/sponsors/carlosazaustre)
+
+<a href="https://www.buymeacoffee.com/carlosazaustre"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=carlosazaustre&button_colour=5F7FFF&font_colour=ffffff&font_family=Bree&outline_colour=000000&coffee_colour=FFDD00"></a>
+
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/carlosazaustre?color=white&label=Github%20Sponsors&logo=github&style=for-the-badge)](https://github.com/sponsors/carlosazaustre)
+
