@@ -7,7 +7,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/carlosazaustre?style=social)
 
 - 👨🏻‍💻 Software Engineer. JavaScript Lover. Educator and Web Technologies Evangelist.
-- 🎓 Director of *MSc in Fullstack Web Development* at **Universidad Europea de Madrid**.
+- 🎓 Director of *Master's Degree in Fullstack Web Development* at **Universidad Europea de Madrid**.
 - 📙 *Author of [Aprendiendo JavaScript](https://carlosazaustre.es/libros/aprendiendo-javascript)* (Amazon)
 - 🏅 *[Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-carlos_azaustre) (GDE) in Web*
 - 🧑‍🚀 *[Auth0 Ambassador](https://auth0.com/ambassador-program)*
