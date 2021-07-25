@@ -69,7 +69,7 @@ const carlosazaustre = {
   genero: "el/hombre",
   codigo: ["JavaScript", "HTML", "CSS"],
   habilidades: ["React", "Next.js", "Node.js", "GraphQL", "Firebase", "Vercel"],
-  trabajo actual: {
+  trabajo: {
     rol: "Director",
     equipo: "Msc. Fullstack Web Development",
     compañia: "Universidad Europea de Madrid",
