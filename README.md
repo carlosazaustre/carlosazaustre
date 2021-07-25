@@ -66,7 +66,7 @@ If you like my work, you can support me with a *coffee* ☕️ or by Github Spon
 ## About me...
 ```js
 const carlosazaustre = {
-  genero: "he/him",
+  genero: "el/hombre",
   codigo: ["JavaScript", "HTML", "CSS"],
   habilidades: ["React", "Next.js", "Node.js", "GraphQL", "Firebase", "Vercel"],
   trabajo actual: {
