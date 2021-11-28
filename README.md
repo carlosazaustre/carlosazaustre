@@ -1,6 +1,6 @@
 <img width=190 align="right" src="https://github.com/carlosazaustre/carlosazaustre/blob/eabeca2eee92184782b3863d079c8f362c0d6513/img/carlos-azaustre.png?raw=true" />
 
-![Github Stats for Carlos Azaustre](https://github-readme-stats.vercel.app/api?username=carlosazaustre&show_icons=true&hide_border=true&title_color=ffb300&icon_color=ffb300&text_color=eee&bg_color=222)
+![Github Stats for Carlos Azaustre](https://github-readme-stats.vercel.app/api?username=carlosazaustre&show_icons=true&hide_border=true&title_color=ffb300&icon_color=ffb300&text_color=ddd&bg_color=111)
 
 ## Hi, I'm Carlos 👋🏽
 
