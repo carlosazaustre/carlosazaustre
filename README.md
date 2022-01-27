@@ -8,10 +8,10 @@
 
 - 👨🏻‍💻 Software Engineer. JavaScript Lover. Educator and Web Technologies Evangelist.
 - 📙 *Author of [Aprendiendo JavaScript](https://carlosazaustre.es/libros/aprendiendo-javascript)* (Amazon)
-- 🎬 [*EduTuber* about Programming, JavaScript, React.js, Node.js,...](https://youtube.com/carlosazaustre?sub_confirmation=1) (+65,000 subs)
+- 🎬 [*EduTuber* about Programming, JavaScript, React.js, Node.js,...](https://youtube.com/carlosazaustre?sub_confirmation=1) (+80,000 subs)
 - 🟣 *Livecoder Streamer* on [Twitch](https://twitch.tv/carlosazaustre)
 - 🏅 *[Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-carlos_azaustre) (GDE) in Web*
-- 🧑‍🚀 *[Auth0 Ambassador](https://auth0.com/ambassador-program)*
+- 🧑‍🚀 *[Auth0 Ambassador](https://auth0.com/ambassador-program)* and ⟁ [Prisma Ambassador](https://www.prisma.io/ambassador)
 
 ## Support
 If you like my work, you can support me on [Github Sponsors](https://github.com/sponsors/carlosazaustre)
@@ -24,8 +24,9 @@ If you like my work, you can support me on [Github Sponsors](https://github.com/
 ```js
 const carlosazaustre = {
   pronouns: "he/him",
+  languages: ["Spanish", "English"],
   code: ["JavaScript", "HTML", "CSS"],
-  tools: ["React", "Next.js", "Node.js", "GraphQL", "Firebase", "Vercel"],
+  tools: ["React", "Next.js", "Node.js", "GraphQL", "Firebase", "Vercel", "Prisma"],
   community: [{
     co_organizer: ["Google Cloud Dev Community Madrid", "ReactJS Spain", "Nodeschool Madrid"],
   }, {
@@ -41,6 +42,7 @@ const carlosazaustre = {
     twitter: "https://twitter.com/carlosazaustre",
     podcast: "https://anchor.fm/carlosazaustre",
     tiktok: "https://tiktok.com/@carlosazaustre",
+    linkedin: "https://linkedin.com/in/carlosazaustre"
   },
 };
 ```
