@@ -7,7 +7,7 @@
 
 ## About me
 
-- 👨🏻‍💻 Software Engineer. JavaScript Lover. Educator and Web Technologies Evangelist.
+- 👨🏻‍💻 Frontend Engineer at @CoCircularOrg.
 - 📙 *Author of [Aprendiendo JavaScript](https://carlosazaustre.es/libros/aprendiendo-javascript)* (Amazon)
 - 🎬 [*EduTuber* about Web Programming, JavaScript, React.js, Node.js,...](https://youtube.com/carlosazaustre?sub_confirmation=1) (+85,000 subs)
 - 🟣 *Livecoder Streamer* on [Twitch](https://twitch.tv/carlosazaustre)
