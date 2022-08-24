@@ -22,5 +22,5 @@
 
 ## Support
 
-- If you like my work, you can nominate me as **[Github Star](bit.ly/gh-stars)**. 
+- If you like my work, you can nominate me as **[Github Star](https://bit.ly/gh-stars)**. 
 - Also, you can support me on [Twitch](https://subs.twitch.tv/carlosazaustre) or as [YouTube Member](https://youtube.com/carlosazaustre/join).
