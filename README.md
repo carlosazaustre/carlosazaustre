@@ -1,4 +1,5 @@
-![github-readme-profile](https://user-images.githubusercontent.com/650752/182213099-a4666ef2-eebd-4f6b-9acf-1ba1a1684cff.png)
+![github-readme-profile](https://user-images.githubusercontent.com/650752/190868831-b5db8a46-35bc-484c-bf48-7e6e812e79b7.png)
+
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/carlosazaustre?style=social)](https://twitter.com/carlosazaustre)
