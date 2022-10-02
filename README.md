@@ -9,15 +9,15 @@
 
 ## About me
 
-- 👨🏻‍💻 Frontend Software Engineer at @CoCircularOrg.
-- 🎬 [*EduTuber* about Web Programming, JavaScript, React.js, Node.js,...](https://youtube.com/carlosazaustre?sub_confirmation=1) (+100,000 subs 🚀)
+- 👨🏻‍💻 Frontend Software Engineer. Passionate about JavaScript, React, Next and Node.js
+- 🎬 [*EduTuber* about Web Programming](https://youtube.com/carlosazaustre?sub_confirmation=1) (+100,000 subs 🚀)
 - 🟣 *Livecoder Streamer* on [Twitch](https://twitch.tv/carlosazaustre)
 - 📙 *Author of [Aprendiendo JavaScript](http://aprendiendojavascript.com)* (Amazon)
 - 🏅 *[Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-carlos-azaustre) (GDE) for Web Technologies*
 - 🏆 *[Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5004840?fullName=Carlos%20Azaustre) (Most Value Professional) 2022 in Developer Technologies*
 ## Community
 [![Discord](https://img.shields.io/discord/785146214122651688?color=white&label=Discord%20Community&logo=discord)](https://carlosazaustre.es/discord)
-- Join to the *[PintaAPIs Developers](https://carlosazaustre.es/discord)* Spanish Developer Community on Discord. We are 5000+ members!
+- Join to the *[PintaAPIs Developers](https://discord.gg/carlosazaustre)* Spanish Developer Community on Discord. We are 5000+ members!
 
 
 
