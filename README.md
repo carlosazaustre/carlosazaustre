@@ -1,5 +1,4 @@
-![github-readme-profile](https://user-images.githubusercontent.com/650752/190868831-b5db8a46-35bc-484c-bf48-7e6e812e79b7.png)
-
+![github-profile](https://github.com/carlosazaustre/carlosazaustre/assets/650752/638feed4-ea26-4309-9632-97487f7cdb17)
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/carlosazaustre?style=social)](https://twitter.com/carlosazaustre)
@@ -11,9 +10,9 @@
 
 - 👨🏻‍💻 Frontend Software Engineer. Passionate about JavaScript, React, Next and Node.js
 - 🎬 [*EduTuber* about Web Programming](https://youtube.com/carlosazaustre?sub_confirmation=1) (+120,000 subs 🚀)
-- 🟣 *Livecoder Streamer* on [Twitch](https://twitch.tv/carlosazaustre)
 - 📙 *Author of [Aprendiendo JavaScript](http://aprendiendojavascript.com)* (Amazon)
-- 🏅 *[Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-carlos-azaustre) (GDE) for Web Technologies*
+- 🟣 *Livecoder Streamer* on [Twitch](https://twitch.tv/carlosazaustre)
+- 🏅 *[Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-carlos-azaustre) (GDE) for Web Technologies* 2019-2023
 - 🏆 *[Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5004840?fullName=Carlos%20Azaustre) (Most Value Professional) 2022 & 2023 in Developer Technologies*
 ## Community
 [![Discord](https://img.shields.io/discord/785146214122651688?color=white&label=Discord%20Community&logo=discord)](https://carlosazaustre.es/discord)
