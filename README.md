@@ -24,5 +24,3 @@
 
 - If you like my work, you can nominate me as **[Github Star](https://stars.github.com/nominate)**. 
 - Also, you can support me on [Twitch](https://subs.twitch.tv/carlosazaustre) or as [YouTube Member](https://youtube.com/carlosazaustre/join).
-
-[![An image of @carlosazaustre's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/carlosazaustre)](https://holopin.io/@carlosazaustre)
