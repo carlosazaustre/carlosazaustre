@@ -7,7 +7,8 @@
 
 ## About me
 
-- 👨🏻‍💻 Frontend Software Engineer. Passionate about JavaScript, React, Next and, Node.js
+- 🎓 BSc in Telematics Engineering
+- 👨🏻‍💻 Frontend Software Engineer. Passionate about JavaScript, React, Next, and Node.js
 - 👨🏻‍🏫 Associate Professor at *Universidad Europea de Madrid*.
 - 🎬 [*EduTuber* about Web Programming](https://youtube.com/carlosazaustre?sub_confirmation=1) (+130,000 subs 🚀)
 - 📙 Author of *[Aprendiendo JavaScript](https://amzn.to/3q3noTt)* and *[Aprendiendo React](https://amzn.to/3ZHIELW)*
@@ -24,5 +25,3 @@
 
 - If you like my work, you can nominate me as **[Github Star](https://stars.github.com/nominate)**. 
 - Also, you can support me on [Twitch](https://subs.twitch.tv/carlosazaustre) or as [YouTube Member](https://youtube.com/carlosazaustre/join).
-
-[![An image of @carlosazaustre's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/carlosazaustre)](https://holopin.io/@carlosazaustre)
