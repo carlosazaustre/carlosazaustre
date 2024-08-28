@@ -1,6 +1,4 @@
-<img width="1128" alt="Linkedin Page" src="https://github.com/carlosazaustre/carlosazaustre/assets/650752/0a4943bd-b878-4037-90c9-1df5e68b4f2b">
-
-
+<img width="1128" alt="Linkedin Page" src="https://github.com/user-attachments/assets/318f9582-2e61-44e6-aa4e-4868bd5d2178">
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/carlosazaustre?style=social)](https://twitter.com/carlosazaustre)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCJgGc8pQO1lv04VXrBxA_Hg?style=social)](https://youtube.com/carlosazaustre?sub_confirmation=1)
@@ -15,7 +13,7 @@
 - 📙 **Author** of *[Aprendiendo JavaScript](https://amzn.to/3q3noTt)* and *[Aprendiendo React](https://amzn.to/3ZHIELW)*
 - 🟣 (Sometimes) *Livecoder Streamer* on [Twitch](https://twitch.tv/carlosazaustre)
 - 🏅 *[Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-carlos-azaustre) (GDE) in **Web Technologie**s for 2019-24, and GDE in **Firebase** for 2024*
-- 🏆 *[Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5004840?fullName=Carlos%20Azaustre) (Most Valuable Professional) for 2022 & 2023 in **Developer Technologies***
+- 🏆 *[Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5004840?fullName=Carlos%20Azaustre) (Most Valuable Professional) for 2022, 2023 & 2024 in **Developer Technologies***
 
 ## Community
 [![Discord](https://img.shields.io/discord/785146214122651688?color=white&label=Discord%20Community&logo=discord)](https://carlosazaustre.es/discord)
