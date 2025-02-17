@@ -15,8 +15,8 @@
   - *[Aprendiendo React](https://amzn.to/3ZHIELW)* (2023)
   - *[Dominando JavaScript](https://amzn.to/4cYybRb)* (2024)
 - 🟣 (Sometimes) *Livecoder Streamer* on [Twitch](https://twitch.tv/carlosazaustre)
-- 🏅 6x *[Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-carlos-azaustre) (GDE) in **Web Technologie**s for 2019-24, and GDE in **Firebase** for 2024*
-- 🏆 3x *[Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5004840?fullName=Carlos%20Azaustre) (Most Valuable Professional) for 2022-2024 in **Developer Technologies***
+- 🏅 7x *[Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-carlos-azaustre) (GDE) in **Web Technologie**s for 2019-24, and GDE in **Firebase** for 2024*
+- 🏆 3x *[Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5004840?fullName=Carlos%20Azaustre) (Most Valuable Professional) for 2022-2025 in **Developer Technologies***
 
 ## Community
 [![Discord](https://img.shields.io/discord/785146214122651688?color=white&label=Discord%20Community&logo=discord)](https://carlosazaustre.es/discord)
