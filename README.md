@@ -1,21 +1,16 @@
-<img width="1128" alt="Carlos Azaustre | Github Profile" src="https://github.com/user-attachments/assets/4781f09a-c4f3-4c4e-a8bb-c5da18668204">
+<img width="100%" alt="Carlos Azaustre. Software from the inside. Engineering with judgment." src="img/github-header-v2.png">
 
+[![YouTube](https://img.shields.io/badge/YouTube-158K%2B-ffd000?style=for-the-badge&logo=youtube&logoColor=ffffff&labelColor=111111)](https://youtube.com/carlosazaustre?sub_confirmation=1) [![X](https://img.shields.io/badge/X-@carlosazaustre-ffd000?style=for-the-badge&logo=x&logoColor=ffffff&labelColor=111111)](https://x.com/carlosazaustre) [![aprendiendo.dev](https://img.shields.io/badge/aprendiendo-.dev-ffd000?style=for-the-badge&labelColor=111111)](https://aprendiendo.dev)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/carlosazaustre?style=social)](https://twitter.com/carlosazaustre)
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCJgGc8pQO1lv04VXrBxA_Hg?style=social)](https://youtube.com/carlosazaustre?sub_confirmation=1)
-[![Twitch](https://img.shields.io/twitch/status/carlosazaustre?label=Follow%20me%20on%20Twitch&style=social)](https://twitch.tv/carlosazaustre)
+**[Blog & newsletter](https://carlosazaustre.es)** · **[Books](https://carlosazaustre.es/libros)**
 
 ## About me
 
-- 🎓 BSc. in Telematics Engineering
-- 👨🏻‍💻 **Fullstack Software Engineer**. Passionate about JavaScript, React, Next, and Node.js
-- 👨🏻‍🏫 **Associate Professor** (Fractional) at *Universidad Europea de Madrid*.
-- 🎬 [**YouTube Educator** about Web Programming](https://youtube.com/carlosazaustre?sub_confirmation=1) (+140,000 subs 🚀)
-- 📙 **Book Author** of the following:
-  - *[Aprendiendo JavaScript](https://amzn.to/3q3noTt)* (2021)
-  - *[Aprendiendo React](https://amzn.to/3ZHIELW)* (2023)
-  - *[Dominando JavaScript](https://amzn.to/4cYybRb)* (2024)
-- 🟣 (Sometimes) *Livecoder Streamer* on [Twitch](https://twitch.tv/carlosazaustre)
-- 🏅 7x *[Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-carlos-azaustre) (GDE) in **Web Technologie**s for 2019-25, and 2x GDE in **Firebase** for 2024-25*
-- 🏆 4x *[Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5004840?fullName=Carlos%20Azaustre) (Most Valuable Professional) for 2022-2026 in **Developer Technologies***
+Software engineer with 20+ years building for the web. I teach how software works under the hood and how to design it well: fundamentals, data structures, clean code, architecture, and AI-assisted development with real engineering discipline.
 
+- **Educator** on [YouTube](https://youtube.com/carlosazaustre?sub_confirmation=1) (158K+ subscribers) and at [aprendiendo.dev](https://aprendiendo.dev)
+- **Associate Professor** at *Universidad Europea de Madrid*
+- **Author** of *[Aprendiendo JavaScript](https://amzn.to/3q3noTt)*, *[Aprendiendo React](https://amzn.to/3ZHIELW)* and *[Dominando JavaScript](https://amzn.to/4cYybRb)*
+- **[Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-carlos-azaustre)** in Web Technologies since 2019, and in Firebase
+- **[Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5004840?fullName=Carlos%20Azaustre)** in Developer Technologies since 2022
+- BSc in Telematics Engineering
